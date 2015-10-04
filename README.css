@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Novecentosanswide-DemiBold';
+	src: url(../font/Novecentosanswide-DemiBold/Novecentosanswide-DemiBold.eot);
+	src: url(../font/Novecentosanswide-DemiBold/Novecentosanswide-DemiBold.eot?#iefix) format(embedded-opentype),
+		 url(../font/Novecentosanswide-DemiBold/Novecentosanswide-DemiBold.woff2) format(woff2),
+		 url(../font/Novecentosanswide-DemiBold/Novecentosanswide-DemiBold.woff) format(woff),
+		 url(../font/Novecentosanswide-DemiBold/Novecentosanswide-DemiBold.ttf) format(truetype),
+		 url(../font/Novecentosanswide-DemiBold/Novecentosanswide-DemiBold.svg#wf) format(svg);
+}
