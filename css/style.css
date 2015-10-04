@@ -29,7 +29,7 @@ a{
 	font-family: 'Novecentosanswide-DemiBold', Arial, sans-serif;
 	color: #737373;
 	font-size: 18px;
-	font-weight: 600;
+	font-weight: 400;
 }
 a:hover{
 	color: #2ecc71;
@@ -90,7 +90,7 @@ textarea {
 h1,h2,h3,h4,h5,h6{
 	text-transform: uppercase;
 	font-family: 'Novecentosanswide-DemiBold', Arial, sans-serif;
-	font-weight: 600;
+	font-weight: 400;
 }
 address{
 	font-style: normal;
